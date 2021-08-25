@@ -11,7 +11,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://github.com/hanscalderonz/react-tutorial",
+  "homepage": "https://github.com/hanscalderonz/react-course.git",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
