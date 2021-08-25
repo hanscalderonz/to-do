@@ -46,11 +46,11 @@
   "main": "course guide",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hanscalderonz/react-course.git"
+    "url": "git+https://github.com/hanscalderonz/to-do.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hanscalderonz/react-course/issues"
+    "url": "https://github.com/hanscalderonz/to-do/issues"
   }
 }
